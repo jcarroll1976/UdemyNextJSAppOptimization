@@ -1,4 +1,5 @@
 import logo from '@/assets/logo.png';
+import Image from 'next/image';
 import Link from 'next/link';
 
 export default function Header() {
